@@ -6,7 +6,7 @@ const ProjectsList = () => {
     <section className="md:pr-50 md:pl-50 pr-10 pl-10 pt-9 pb-15">
       <div className="pb-14">
         <h1 className="font-bold pb-4 md:text-5xl text-3xl grid">Projects</h1>
-        <span>
+        <span className="text-gray-400">
           A few of my public web-design projects that I kind of handled single
           handedly
         </span>
