@@ -3,7 +3,7 @@ import { Hand, Mail } from "lucide-react";
 
 const HeroSection = () => {
   return (
-    <div className="w-full md:pb-20 font-poppins bg-gradient-to-tr from-[#f2f8ff] via-[#ecf5ff] to-[#e7f0fd] bg-gray-100 relative">
+    <div className="w-full md:pt-12 pt-7 md:pb-20 font-poppins bg-gradient-to-tr from-[#f2f8ff] via-[#ecf5ff] to-[#e7f0fd] bg-gray-100 relative">
       <section className="md:pl-50 md:pr-50 p-10 pt-18  text-black">
         <h1 className="md:text-8xl text-6xl font-bold text-black-600 mb-11">
           Ochepo Emmanuel
@@ -18,7 +18,7 @@ const HeroSection = () => {
           </span>
         </div>
         <div>
-          <button className="md:cursor-pointer w-full pt-4 pb-4 md:w-2/8 flex gap-3 items-center justify-center bg-blue-600 md:pl-15 md:pr-15 md:pt-5 md:pb-5 rounded-sm hover:bg-white hover:text-blue-500 text-white mt-8 text-lg hover:border-1 hover:border-blue-500 transition duration-300">
+          <button className="md:cursor-pointer w-full pt-4 pb-4 md:w-2/8 flex gap-3 items-center justify-center bg-blue-600 md:pl-15 md:pr-15 md:pt-5 md:pb-5 rounded-sm hover:bg-blue-700 hover:text-white-500 text-white mt-8 text-lg hover:border-1 hover:border-blue-500 transition duration-300">
             Lets Talk
             <span className="flex items-center justify-center">
               <Mail size={20} />

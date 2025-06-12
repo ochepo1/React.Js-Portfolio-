@@ -9,6 +9,6 @@ export default defineConfig({
   ],
   server: {
     host: true,
-    allowedHosts: ['rude-ducks-spend.loca.lt']
+    allowedHosts: ['c511-105-113-112-227.ngrok-free.app']
   }
 })
