@@ -19,7 +19,7 @@ const SkillSection = () => {
               <span>6 Years</span>
             </div>
           </div>
-          <span>
+          <span className="text-gray-500">
             I always prefer semantic markup and keep accesibility in mind while
             writing my html. I keep the structure consistent so that it can be
             targeted well with CSS & can be scaled further.
@@ -41,7 +41,7 @@ const SkillSection = () => {
               <span>6 Years</span>
             </div>
           </div>
-          <span>
+          <span className="text-gray-500">
             I write modular & scalable CSS to design pixel-perfect websites,
             with strong layout debugging skills. Can leverage the benefits of
             frameworks like Bootstrap and Tailwind to create aesthetic and
@@ -64,7 +64,7 @@ const SkillSection = () => {
               <span>2 Years</span>
             </div>
           </div>
-          <span>
+          <span className="text-gray-500">
             Skilled in DOM manipulation, event handling, APIs, ES6/ES7, async
             operations, and promises. Proficient in utilizing a wide range of
             modern JavaScript frameworks and tools.
@@ -86,7 +86,7 @@ const SkillSection = () => {
               <span>1 Years</span>
             </div>
           </div>
-          <span>
+          <span className="text-gray-500">
             Developing scalable backend services for Web Apps, SaaS platforms,
             and APIs using Node.js. Skilled in Express.js, database management,
             and creating custom HTML/Markdown to DITA parsers.
