@@ -4,7 +4,7 @@ const SkillSection = () => {
   return (
     <section className=" md:pb-16 pt-8 md:pr-50 md:pl-50 p-10 md:pt-15">
       <div>
-        <h1 className="font-bold pb-4 md:text-4xl text-3xl grid">Technical Skill Set</h1>
+        <h1 className="font-bold pb-4 md:text-5xl text-3xl grid">Technical Skill Set</h1>
         <span className="text-gray-400">
           Constantly keeping myself updated with the latest tech in frontend
           space!
@@ -47,15 +47,12 @@ const SkillSection = () => {
             frameworks like Bootstrap and Tailwind to create aesthetic and
             beautiful layouts from absolutely scratch.
           </span>
-          <div className="flex gap-6">
-            <span className="bg-gray-200  text-sm p-1 rounded-full border-1 font-light border-amber-400 border-dashed">
+          <div className="flex gap-3 md:gap-6">
+            <span className="bg-gray-200 text-xs  md:text-sm p-1 rounded-full border-1 font-light border-amber-400 border-dashed">
               BOOTSTARP
             </span>
             <span className="bg-gray-200  text-sm p-1 rounded-full border-1 font-light border-amber-400 border-dashed">
               TAILWIND
-            </span>
-            <span className="bg-gray-200  text-sm p-1 rounded-full border-1 font-light border-amber-400 border-dashed">
-              CSS-IN-JS
             </span>
           </div>
         </div>
