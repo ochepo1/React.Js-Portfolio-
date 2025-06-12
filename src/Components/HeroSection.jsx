@@ -3,7 +3,7 @@ import { Hand, Mail } from "lucide-react";
 
 const HeroSection = () => {
   return (
-    <div className="w-full font-poppins bg-gradient-to-tr from-[#f2f8ff] via-[#ecf5ff] to-[#e7f0fd] bg-gray-100 relative">
+    <div className="w-full md:pb-20 font-poppins bg-gradient-to-tr from-[#f2f8ff] via-[#ecf5ff] to-[#e7f0fd] bg-gray-100 relative">
       <section className="md:pl-50 md:pr-50 p-10 pt-18  text-black">
         <h1 className="md:text-8xl text-6xl font-bold text-black-600 mb-11">
           Ochepo Emmanuel
